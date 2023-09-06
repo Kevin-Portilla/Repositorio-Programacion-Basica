@@ -1,0 +1,8 @@
+----------------------------------------------
+ID: 5
+Descripcion: a
+Costo por noche: 
+55 
+Nombre del guia: j
+Duracion: 5:00
+Transporte: si
